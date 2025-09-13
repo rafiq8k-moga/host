@@ -16,3 +16,4 @@
 127.0.0.1 www.poki.com
 127.0.0.1 girlsgogames.co.id
 127.0.0.1 www.girlsgogames.co.id
+127.0.0.1 jetspaz.com
