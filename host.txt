@@ -2,3 +2,17 @@
 127.0.0.1 www.friv.com
 127.0.0.1 roblox.com
 127.0.0.1 www.roblox.com
+127.0.0.1 www.crazygames.com
+127.0.0.1 crazygames.com
+127.0.0.1 warthunder.com
+127.0.0.1 www.warthunder.com
+127.0.0.1 www.crazygames.co.id
+127.0.0.1 crazygames.co.id
+127.0.0.1 games.co.id
+127.0.0.1 www.games.co.id
+127.0.0.1 kyabai.com
+127.0.0.1 www.kyabai.com
+127.0.0.1 poki.com
+127.0.0.1 www.poki.com
+127.0.0.1 girlsgogames.co.id
+127.0.0.1 www.girlsgogames.co.id
