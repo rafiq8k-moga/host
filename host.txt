@@ -253,3 +253,10 @@
 127.0.0.1 venge-test-server.venge.io
 127.0.0.1 wiki.venge.io
 127.0.0.1 venge.io
+127.0.0.1 cdn.games.co.id
+127.0.0.1 dev.games.co.id
+127.0.0.1 static.games.co.id
+127.0.0.1 static.stg.games.co.id
+127.0.0.1 stg.games.co.id
+127.0.0.1 test.games.co.id
+127.0.0.1 www.games.co.id
