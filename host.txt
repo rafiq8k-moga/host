@@ -33,6 +33,10 @@
 127.0.0.1 shop.poki.com
 127.0.0.1 user-vault.poki.com
 127.0.0.1 www.poki.com
+127.0.0.1 assets.bgames.com
+127.0.0.1 test.bgames.com
+127.0.0.1 www.bgames.com
+127.0.0.1 bgames.com
 127.0.0.1 girlsgogames.co.id
 127.0.0.1 www.girlsgogames.co.id
 127.0.0.1 jetspaz.com
