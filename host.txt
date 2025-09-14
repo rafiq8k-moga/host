@@ -1,3 +1,12 @@
+127.0.0.1 permainan.co.id
+127.0.0.1 cdn.permainan.co.id
+127.0.0.1 cdn.prod.permainan.co.id
+127.0.0.1 prod.permainan.co.id
+127.0.0.1 static.permainan.co.id
+127.0.0.1 static.stg.permainan.co.id
+127.0.0.1 stg.permainan.co.id
+127.0.0.1 test.permainan.co.id
+127.0.0.1 www.permainan.co.id
 127.0.0.1 cdn.steamcommunity.com
 127.0.0.1 media.steamcommunity.com
 127.0.0.1 www.steamcommunity.com
