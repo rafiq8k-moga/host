@@ -134,6 +134,8 @@
 127.0.0.1 www.roblox.com
 127.0.0.1 www.crazygames.com
 127.0.0.1 crazygames.com
+127.0.0.1 www.crazygames.co.id
+127.0.0.1 crazygames.co.id
 127.0.0.1 poki.com
 127.0.0.1 about.poki.com
 127.0.0.1 api-acceptance.poki.com
