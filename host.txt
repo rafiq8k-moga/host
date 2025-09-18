@@ -1,3 +1,5 @@
+127.0.0.1 deadshot.io
+127.0.0.1 www.deadshot.io
 127.0.0.1 permainan.co.id
 127.0.0.1 cdn.permainan.co.id
 127.0.0.1 cdn.prod.permainan.co.id
